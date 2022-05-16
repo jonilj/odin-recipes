@@ -1,2 +1,2 @@
 # odin-recipes
-Simple recipes webpage for Odin Project
+A simple recipes webpage for The Odin Project. Contains a main index.html file and hyperlinks to three recipe pages.
